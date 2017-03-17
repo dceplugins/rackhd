@@ -8,6 +8,6 @@ LABEL maintainer="Revol Cai" \
       io.daocloud.dce.plugin.categories="storage" \
       io.daocloud.dce.plugin.icon-src="" \
       io.daocloud.dce.plugin.vendor="Community" \
-      io.daocloud.dce.plugin.required-dce-version=">=2.3.0" \
+      io.daocloud.dce.plugin.required-dce-version=">=2.5.2” \
       io.daocloud.dce.plugin.nano-cpus-limit="500000000" \
       io.daocloud.dce.plugin.memory-bytes-limit="52428800"
